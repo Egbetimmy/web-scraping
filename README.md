@@ -1,6 +1,6 @@
 # web-scraping
 la Liga analysis
 
-Twitter
+Twitter analysis 
 
-Instagram 
+Instagram analysis 
